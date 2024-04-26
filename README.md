@@ -1,2 +1,5 @@
-# diagram-painel
-Projeto de um painel para criação de diagramas com autenticação e interação múltiplos usuários
+# Painel de Diagramas
+
+Projeto de apliação para criação de diagramas com autenticação e interação múltiplos usuários
+
+🚀 Em construção...
