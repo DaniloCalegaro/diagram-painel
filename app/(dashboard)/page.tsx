@@ -1,12 +1,11 @@
 import { UserButton } from "@clerk/nextjs";
 
-export default function Home() {
+const DashboardPage = () => {
   return (
     <div className="flex flex-col gap-y-4">
-      <p>Hellow</p>
-      <div>
-        <UserButton />
-      </div>
+      <div>Dashboard Root Page</div>
     </div>
   );
-}
+};
+
+export default DashboardPage;
